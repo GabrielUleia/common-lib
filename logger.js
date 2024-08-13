@@ -19,3 +19,5 @@ const logger = winston.createLogger({
 })
 
 logger.info('This is a log.')
+
+export default logger
